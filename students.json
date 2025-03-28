@@ -1,0 +1,72 @@
+[
+    {
+        "id": 325468254,
+        "first_name": "Osama",
+        "last_name": "Madi",
+        "email": "Osama.Madi@braude.ac.il",
+        "courses": [
+            "Databases",
+            "Web Development",
+            "Algorithms"
+        ],
+        "link": "https://www.google.com/"
+    },
+    {
+        "id": 213911548,
+        "first_name": "Nuwar",
+        "last_name": "Dabbah",
+        "email": "Nuwar.Dabbah@braude.ac.il",
+        "courses": [
+            "AI",
+            "Statistics",
+            "Software Engineering"
+        ],
+        "link": "https://youtube.com/"
+    },
+    {
+        "id": 212682637,
+        "first_name": "Wadeia",
+        "last_name": "Farran",
+        "email": "Wadeia.Farran@braude.ac.il",
+        "courses": [
+            "Computer Vision",
+            "Python",
+            "Machine Learning"
+        ],
+        "link": "https://www.facebook.com/"
+    },
+    {
+        "id": 322394214,
+        "first_name": "Bader",
+        "last_name": "Boshnaq",
+        "email": "Bader.Boshnaq@braude.ac.il",
+        "courses": [
+            "Cyber Security",
+            "Operating Systems"
+        ],
+        "link": "https://www.instagram.com/"
+    },
+    {
+        "id": 212131353,
+        "first_name": "Helal",
+        "last_name": "Ali",
+        "email": "Helal.Ali@braude.ac.il",
+        "courses": [
+            "Java",
+            "Cloud Computing"
+        ],
+        "link": "https://cloud.google.com/training"
+    },
+    {
+        "id": 209249655,
+        "first_name": "Owise",
+        "last_name": "Zoubi",
+        "email": "Owise.Zoubi@braude.ac.il",
+        "courses": [
+            "UI/UX",
+            "React",
+            "Node.js"
+        ],
+        "link": "https://react.dev/"
+    }
+]
