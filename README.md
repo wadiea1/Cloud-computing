@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef7,50:cfe0f5,100:b5cdea&height=200&section=header&text=Cloud%20Computing&fontSize=52&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Lab%20Notebooks%20%E2%80%94%20Colab%2C%20Open%20Data%20APIs%2C%20Visualization%20%26%20Firebase&descSize=15&descAlignY=55&descColor=2d3748" width="100%"/>
+<img src="https://raw.githubusercontent.com/wadiea1/Cloud-computing/main/.github/banner.svg" alt="Cloud Computing — Lab Notebooks" width="100%"/>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -158,5 +158,4 @@ Software Engineering — Braude College of Engineering
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5cdea,50:cfe0f5,100:e8eef7&height=120&section=footer" width="100%"/>
 </div>
